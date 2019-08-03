@@ -25,6 +25,6 @@ for x in range(treetrunk):
     
 # print the tree base
 line = ""
-for x in range(2*treetop+1):
+for x in range(2*treetop-1):
     line = line+"-"
 print(line)
